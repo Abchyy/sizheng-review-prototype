@@ -1,0 +1,853 @@
+{
+  "requests": 85,
+  "known_or_estimated_cost_usd": 0.018251016000000002,
+  "attempts": [
+    {
+      "provider": "jev",
+      "cache_id": "d6285ffe5f59f306e20878304d7db56a7e8c33486b6219001422db6b61d0e05d",
+      "started_utc": "2026-10-02T11:53:10.637558+00:00",
+      "status": "success",
+      "latency_s": 5.862274622000314,
+      "cost_usd": 4.6872e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790941996-6wN0Ckv22OmqxIBMewkY"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "276299fd0530f1565d4e10b66027f5d5fe4d5b22b3b24a286811bf864d2413d9",
+      "started_utc": "2026-10-02T11:53:16.500894+00:00",
+      "status": "success",
+      "latency_s": 5.966733485000077,
+      "cost_usd": 0.000303,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "82c6ffea-2685-416b-b2ab-7917338fb2ff"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "e43bcfe49a4a257848377fc5b9088ca1044c79cf87ee1cf73175a8aff26c09ba",
+      "started_utc": "2026-10-02T11:53:22.469676+00:00",
+      "status": "success",
+      "latency_s": 4.309484350000275,
+      "cost_usd": 4.6956e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942006-kQzA4kK5GozccaC5EdhJ"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "31ba7d54f63f2588a4cfb8767bb734667f77e1a990c66cc3f5915164e2488a12",
+      "started_utc": "2026-10-02T11:53:26.780068+00:00",
+      "status": "success",
+      "latency_s": 5.964685909000309,
+      "cost_usd": 0.000489168,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4cf5898d-27c5-4a64-8047-d7eb9c0e2bf6"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "61d5640dfa2381bc78133c8ad414d84a64b52e53ebc8d7ca4a674a6fb6475ebc",
+      "started_utc": "2026-10-02T11:53:32.747478+00:00",
+      "status": "success",
+      "latency_s": 4.126235870000073,
+      "cost_usd": 4.6872e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942016-GCEpz5do73LwVf93NVcE"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "7ddbcc2a50ce267a80434e517222e5adef9b107bd9524270e72dd57130c7d9ed",
+      "started_utc": "2026-10-02T11:53:36.874851+00:00",
+      "status": "success",
+      "latency_s": 4.912197845999799,
+      "cost_usd": 0.00044446799999999995,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "08c5c971-5fcc-439e-98e9-8accb7302c87"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "4196cd60b381547e4bcb997dd42f4987594f3cd5034da695e2477408c6c56af0",
+      "started_utc": "2026-10-02T11:53:41.788869+00:00",
+      "status": "success",
+      "latency_s": 4.653403457999957,
+      "cost_usd": 4.6956e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942026-scFFohzEaswomGBqvsNc"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "8da15fe7cfb7725779ddf7b1f63776adf69c56f57633aeb4760ce9af932b6b37",
+      "started_utc": "2026-10-02T11:53:46.443633+00:00",
+      "status": "success",
+      "latency_s": 4.649204083999848,
+      "cost_usd": 0.00027796799999999997,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "e57d640a-44e2-447a-b9d2-58b278c7a32a"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "c7d30d870f1f052081f30959d41850b7532846634f5831708f0a549a39277c49",
+      "started_utc": "2026-10-02T11:53:51.094994+00:00",
+      "status": "success",
+      "latency_s": 4.133184095000161,
+      "cost_usd": 4.7124e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942035-LtKRZa4p8jE43oluPxQD"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "f741e4b94c2023fef6465a374d5ae5d8c43f7bc019d9f05a46840cde0a6c84d2",
+      "started_utc": "2026-10-02T11:53:55.229275+00:00",
+      "status": "success",
+      "latency_s": 5.345966222000243,
+      "cost_usd": 0.000295668,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "40e3c339-40d9-4b91-b565-6a9375591ffb"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "d05d9efe33356f22c331e5817d749115779bb43de09de7cdb25fa513e5932e87",
+      "started_utc": "2026-10-02T11:54:00.577282+00:00",
+      "status": "success",
+      "latency_s": 3.704228908999994,
+      "cost_usd": 4.7376e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942044-6SavaoFnq0hykmEtTNpj"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "d74752daa8c5543a8ebb20aca0afce88452b4d651d9aa8c775100f4e18d8ab26",
+      "started_utc": "2026-10-02T11:54:04.282847+00:00",
+      "status": "success",
+      "latency_s": 5.466910484999971,
+      "cost_usd": 0.000425868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "636140f5-1059-4c00-95e8-44ea195b0697"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "644a774817822ab32deaefa99dd999d9a02c9b039cedc4872f72a008766efbf9",
+      "started_utc": "2026-10-02T11:55:23.660523+00:00",
+      "status": "success",
+      "latency_s": 6.378849507999803,
+      "cost_usd": 0.000142668,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "29d82df4-710a-439e-8cc5-56f1bb95a2d4"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "746355b738d8c4c3ce8e5222ad41fd77f39d59464030fa0a824eedce08aa9a37",
+      "started_utc": "2026-10-02T11:55:30.041231+00:00",
+      "status": "success",
+      "latency_s": 4.945257020000099,
+      "cost_usd": 0.000313068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "d84809d8-cea3-4626-a5ee-d9bba6e61d43"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "7562d69c771469683bc4cda161b25df53a6f672c34d30073ccfb36ded82451fb",
+      "started_utc": "2026-10-02T11:55:34.988283+00:00",
+      "status": "success",
+      "latency_s": 4.440494994999881,
+      "cost_usd": 0.000155868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "3f89443d-4e49-4514-92fe-891768553dd2"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "061e8d8df81f83b883a5725cdac3a73d1d779f2d44b2c35fdbbee3cbe50dc247",
+      "started_utc": "2026-10-02T11:55:39.430360+00:00",
+      "status": "success",
+      "latency_s": 5.43182762699962,
+      "cost_usd": 0.00014386799999999999,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4e1266af-7fe8-424a-96f6-bbb1e875e6cc"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "cc42716b311e7b7e3b16e055907a97847a74c364c0235d3db432491ff7d9e912",
+      "started_utc": "2026-10-02T11:55:44.863925+00:00",
+      "status": "interrupted",
+      "cost_unknown": true
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "cc42716b311e7b7e3b16e055907a97847a74c364c0235d3db432491ff7d9e912",
+      "started_utc": "2026-10-02T11:56:20.381288+00:00",
+      "status": "success",
+      "latency_s": 5.811212350999995,
+      "cost_usd": 0.000140136,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "b46fe155-bc19-47c7-bd5d-bfb67a535705"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "2857e23ea50f02ec4063af11f8ccdd56079310e3d17c632ae3dd26945d587c4a",
+      "started_utc": "2026-10-02T11:56:26.194165+00:00",
+      "status": "success",
+      "latency_s": 5.862484866000159,
+      "cost_usd": 0.000363468,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "6edef2bc-bb6a-429b-9ad4-55b79c27a5d2"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "973d9f564b163ea278b656bed0efb5adf6650c79bfd8e2bf8e60da3ebb4413b7",
+      "started_utc": "2026-10-02T11:56:32.058471+00:00",
+      "status": "success",
+      "latency_s": 5.018438299000081,
+      "cost_usd": 0.00012106800000000001,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "5fc7ea15-e6c1-47bd-945d-2159d7cc65f0"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "e87abd8984598c0fa466a0c32041bf47a2a3a86c421dc76f71f97dea34a85239",
+      "started_utc": "2026-10-02T11:56:37.079569+00:00",
+      "status": "success",
+      "latency_s": 6.174958873999913,
+      "cost_usd": 0.000229068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "f25918bd-aa17-4a7b-92c5-3cd6dda1a50a"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "d135c65ba9bb16fcea5f6684b28fb6bd73aef9c04cd1b5c6efac3bed688d64da",
+      "started_utc": "2026-10-02T11:56:43.258499+00:00",
+      "status": "success",
+      "latency_s": 5.18626647200017,
+      "cost_usd": 0.00028426799999999996,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "86844e19-5e4e-4ef2-81ed-e6118a204b24"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "b35391606aabcd307fb41f3453beb8ae2b85e8d1fbc6dcf6651ae12ee8516093",
+      "started_utc": "2026-10-02T11:56:48.446898+00:00",
+      "status": "success",
+      "latency_s": 6.3070258040002045,
+      "cost_usd": 0.000306168,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "3a43e6e9-2203-4972-82ef-67da4daf3119"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "bd04514df5770037d8f8ac0c6e56a5ce72ba2c70cdc1c18c305504623e929feb",
+      "started_utc": "2026-10-02T11:56:54.755704+00:00",
+      "status": "success",
+      "latency_s": 6.102595649999785,
+      "cost_usd": 0.000301668,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "1414468a-6ed8-46d0-8b59-7a075a70dd73"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "94939ee36c273534a059c343a40ad9dd9710bd0c644eaac666d418805eb0931f",
+      "started_utc": "2026-10-02T11:57:00.860571+00:00",
+      "status": "success",
+      "latency_s": 5.804602787000022,
+      "cost_usd": 0.000193368,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "d454c154-6e56-4e60-a256-0710665e9617"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "efb2d80c5c14e75c7393dab7880a9a706b0bdda7a2c8053fa53e10ac533253bf",
+      "started_utc": "2026-10-02T11:57:06.667178+00:00",
+      "status": "success",
+      "latency_s": 4.402758959000039,
+      "cost_usd": 0.00013246799999999998,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "c4be06ef-f8d6-46c8-9fee-90d15e733962"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "df059b7fc31f70fe64c685fd0dcd15502475b37b5a9069064ba93b680db7d5d5",
+      "started_utc": "2026-10-02T11:57:11.071743+00:00",
+      "status": "success",
+      "latency_s": 6.204705597000157,
+      "cost_usd": 0.00025546799999999996,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "5f43fe2f-6845-4ef7-be87-c32cc49479e4"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "226e7b48178726e086d0035b4ca26cc52f08333b13bb825aaf108388a5f7dd8c",
+      "started_utc": "2026-10-02T11:57:17.278474+00:00",
+      "status": "success",
+      "latency_s": 5.718368394999743,
+      "cost_usd": 0.000174768,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4149d8d8-9443-4555-b0e5-0b52b374909d"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "3a96f25576954ad0f5717ca732567ee2a48b0c377130e40dbe4def4fef1da129",
+      "started_utc": "2026-10-02T11:57:23.001706+00:00",
+      "status": "success",
+      "latency_s": 7.232630599000004,
+      "cost_usd": 0.000365868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "f0193c04-6a60-4a32-8e96-913ab1de2fac"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "8a9967a42c2e493b7ee3d9af5f72f588a3634f04f60ea2a4b78c6cb23954fe9c",
+      "started_utc": "2026-10-02T11:57:30.237917+00:00",
+      "status": "success",
+      "latency_s": 5.969626908999999,
+      "cost_usd": 0.000359568,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "9012033a-1916-4b4b-907c-1fbd38c638bc"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "978b7f8156c25c9bb98e3b17e6bdb5cab73e142c458c227b2309b361916aea0b",
+      "started_utc": "2026-10-02T11:57:36.209782+00:00",
+      "status": "success",
+      "latency_s": 5.274545536000005,
+      "cost_usd": 0.000295668,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "5ba7b3f2-4647-449f-a7e1-735ae1afa2f6"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "889987a75b25c6540e531de53b2990c073ddec3d2067edb2a6f47c867d8b09b0",
+      "started_utc": "2026-10-02T11:57:41.486729+00:00",
+      "status": "success",
+      "latency_s": 5.538118557000416,
+      "cost_usd": 0.000307368,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4eccdfb6-ebe5-4db4-be7e-27af84408b0e"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "2d6682d48af6e04560248a8cdb100d513053be3bf4e7e33db9c87c2d3bc80faf",
+      "started_utc": "2026-10-02T11:57:47.027005+00:00",
+      "status": "success",
+      "latency_s": 5.891266475000066,
+      "cost_usd": 0.000154068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "e0c6498d-c823-477f-9b94-aff1a8f032ce"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "6adcbc537c7487851a3b2cb6424b6f215994d0f3de7f4c15a1c47de6a50d6ea4",
+      "started_utc": "2026-10-02T11:57:52.920572+00:00",
+      "status": "success",
+      "latency_s": 7.380918617000134,
+      "cost_usd": 0.000278868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "611937d0-edd0-4c40-a5be-0dec4c352bfa"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "43bcddac2de831018e3c5392a7be475e4f0af142a5850e203ee775eb024385b2",
+      "started_utc": "2026-10-02T11:58:00.303305+00:00",
+      "status": "success",
+      "latency_s": 4.867293115999928,
+      "cost_usd": 0.00014146799999999998,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "ae10775d-1f07-4287-9632-71877dca7f1b"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "3485875e8f134832cb4ccc6118407a87991ee6b4ea106b93b280803b37bec457",
+      "started_utc": "2026-10-02T11:58:05.174237+00:00",
+      "status": "success",
+      "latency_s": 4.403757102999862,
+      "cost_usd": 0.000120768,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "b523d080-f8d7-420e-85be-7dc402487fee"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "c4e651dbc9b161309386211f30d14d92d4a9ab8a99000afa12973ddefa63ae27",
+      "started_utc": "2026-10-02T11:58:09.580384+00:00",
+      "status": "success",
+      "latency_s": 5.593762388999949,
+      "cost_usd": 0.000138768,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "32662a15-661a-4223-a251-98aa03508294"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "42ec0a7ea0c613d3a0746eb6a01c91e1e15c9c680a3016c455bfdef2f7550dd2",
+      "started_utc": "2026-10-02T11:58:15.176471+00:00",
+      "status": "success",
+      "latency_s": 4.290409104999981,
+      "cost_usd": 0.000331068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "665c8d15-7fb8-4e10-af19-392bbbc9285a"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "9d26b849957bdec07d60d7afbed77e761f1a1b7ba92fb6f65c24877d0db92b16",
+      "started_utc": "2026-10-02T11:58:19.469337+00:00",
+      "status": "success",
+      "latency_s": 6.027096144000097,
+      "cost_usd": 0.000515868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "2186e77c-efd7-4830-800e-0c9e71fe93c7"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "66649ca9add53c6f00310bee995310c52822e8126d0c1f40126de048c87b113c",
+      "started_utc": "2026-10-02T11:58:25.498603+00:00",
+      "status": "success",
+      "latency_s": 4.925913284000217,
+      "cost_usd": 0.000489468,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "83d3cd4a-f4e9-4e80-819e-059881b6dfc1"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "f42660b637af7b21204dc128b455bbf4446a18b645ec69d5d6266f17ffa6e107",
+      "started_utc": "2026-10-02T11:58:30.426829+00:00",
+      "status": "success",
+      "latency_s": 5.05297629900042,
+      "cost_usd": 0.000329868,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "e7ba41e3-b0e1-4f23-9dca-6c889c0b14f9"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "fe5a23f719d1b46459b867eb7051a6e54f2a97ac745a4ed6df0a36eff0ede224",
+      "started_utc": "2026-10-02T11:58:35.481982+00:00",
+      "status": "success",
+      "latency_s": 5.228684281999904,
+      "cost_usd": 0.000375768,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "bcaaf74e-201a-4e22-9d13-6288bc8a47c9"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "310c3e817e4996b85bd4200da6f849b2aa9c62eb5e00748d255534d113a3c88c",
+      "started_utc": "2026-10-02T11:58:40.712985+00:00",
+      "status": "success",
+      "latency_s": 5.544857676999982,
+      "cost_usd": 0.000547068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "51e47b8e-f867-419a-9102-e8e1f1bc1544"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "798ff66c5a42a675b6b96504e60ed2e8d7eafbb0cd04f5890ccafafd0a72f312",
+      "started_utc": "2026-10-02T11:58:46.260577+00:00",
+      "status": "success",
+      "latency_s": 6.200034314000277,
+      "cost_usd": 0.00034216799999999995,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "e56058be-4072-478e-a8c2-0cf11dbffb43"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "e9b4937f0e0aaf5a0e52b90f11d69b1bf6c2a5bffd1cc9bb78f7166646469c6f",
+      "started_utc": "2026-10-02T11:58:52.462986+00:00",
+      "status": "success",
+      "latency_s": 4.503292070000043,
+      "cost_usd": 0.000452568,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4654ec1c-7375-4491-9625-9dbc66f16f88"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "c072bbdbacada84715eabe4376f5522e4f1a4d8afd84b6885369bb52aae498f5",
+      "started_utc": "2026-10-02T11:58:56.968852+00:00",
+      "status": "success",
+      "latency_s": 5.75019402099997,
+      "cost_usd": 0.000562968,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "524225ef-c14c-45f5-bf18-fbcd9051a1b4"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "0d03290c3422847461ba4891d9eae6de8381dd3eb76e7279168c472f8519c098",
+      "started_utc": "2026-10-02T11:59:02.721501+00:00",
+      "status": "success",
+      "latency_s": 4.599863794000157,
+      "cost_usd": 0.00033286799999999994,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "1b22f205-2fba-42c1-bf0f-0710916eec74"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "a00d24c7aac79656d5dbfa950547716e4ee8f3c077344c5151bb698243dad5e2",
+      "started_utc": "2026-10-02T11:59:07.325324+00:00",
+      "status": "success",
+      "latency_s": 5.934220476000064,
+      "cost_usd": 0.000648768,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "f1588e25-131d-4c7a-bca3-0d0a4246f141"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "a86021e958f00d3e1522f975572bdc4d59eebb171b1590c4aaea79ca9865d112",
+      "started_utc": "2026-10-02T11:59:13.263061+00:00",
+      "status": "success",
+      "latency_s": 5.045845418000226,
+      "cost_usd": 0.00039646799999999997,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "25c891f3-b21d-40dc-ae3e-8de7981eb381"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "bfe74cff603841baa0c4b9cdf8af8153115c17d384f1ab19d377d2c951e78e3b",
+      "started_utc": "2026-10-02T11:59:18.311693+00:00",
+      "status": "success",
+      "latency_s": 6.077155272999789,
+      "cost_usd": 0.000305568,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "4fda7b61-67ab-4c50-9539-29986d497f8b"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "b08e8834062f8ef79618fa96cf19f9d68e479f4be709f55bee394627baeaeeae",
+      "started_utc": "2026-10-02T11:59:24.391840+00:00",
+      "status": "success",
+      "latency_s": 9.626550507000047,
+      "cost_usd": 0.000493368,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "553f946d-599c-435e-b86a-b1afdc11a6a9"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "4058dfc8455781e6d236dfdef5bae58a6e706c9cb153f9a145cfa3c82ee21f78",
+      "started_utc": "2026-10-02T11:59:34.020648+00:00",
+      "status": "success",
+      "latency_s": 5.580262227000276,
+      "cost_usd": 0.000475068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "c7341196-e395-462d-9db0-97b07d29943a"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "8537e3e9ae835a63a71c24aa957d377900c8d07b4ab62e153a85a44744d6b525",
+      "started_utc": "2026-10-02T11:59:39.603156+00:00",
+      "status": "success",
+      "latency_s": 5.917689074999998,
+      "cost_usd": 0.000523368,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "edea3aab-c1bf-4fb2-8a3e-dec0d033b610"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "4e1543b71f2c6bfbc950f3a79c5377702faf5fa519d7422e00b764045b944069",
+      "started_utc": "2026-10-02T11:59:45.523191+00:00",
+      "status": "success",
+      "latency_s": 5.537083127000187,
+      "cost_usd": 0.000254268,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "438b1cf4-168f-470a-99c0-10525e4d0577"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "643f5f5cddb7a0a34854fc77f94ff823033ba534f4c12f4ca149182ac99f40da",
+      "started_utc": "2026-10-02T11:59:51.063905+00:00",
+      "status": "success",
+      "latency_s": 6.687509468999906,
+      "cost_usd": 0.0007003679999999999,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "7879e4a1-f7c1-45d5-8e09-6188edabd552"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "ab50284292bb0406421a6ce4af19d51f6da2180c16be50b951a3266e08829865",
+      "started_utc": "2026-10-02T11:59:57.754099+00:00",
+      "status": "success",
+      "latency_s": 5.884770573999958,
+      "cost_usd": 0.000256068,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "f0352804-1562-419a-ac01-d1723a934fba"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "a1765d9208c6829c02ee185d3ce0947be92c7875a77458ff3a3f827a7a858a95",
+      "started_utc": "2026-10-02T12:00:03.641713+00:00",
+      "status": "success",
+      "latency_s": 5.704014171999916,
+      "cost_usd": 0.00026716800000000003,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "657e5e80-0438-4d6f-8953-016fd94d29e0"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "58977c82b9352804aa38cdb27a44ee27b3860c231fb3e77500d364c2e131e7e3",
+      "started_utc": "2026-10-02T12:00:09.350420+00:00",
+      "status": "success",
+      "latency_s": 5.461505873000078,
+      "cost_usd": 0.00023356800000000002,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "1b774f4b-2b1a-47eb-b83c-7049e21f6151"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "e448cbfba81f024fd3f46d38870da2c53726bd9163137df8c7c11270bfded0f5",
+      "started_utc": "2026-10-02T12:00:14.814420+00:00",
+      "status": "success",
+      "latency_s": 5.390102117999959,
+      "cost_usd": 0.00014416800000000002,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "969ab87d-2b64-4fc9-b344-525c8f6b0020"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "47bd0bdeb03e1b6e804e3bfafb17b7efb811452ec3eceeb300b3d3c9e26723b2",
+      "started_utc": "2026-10-02T12:00:20.207846+00:00",
+      "status": "success",
+      "latency_s": 6.918878311999833,
+      "cost_usd": 0.000122268,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "56518afa-dcf4-40ee-9c40-2a4a1da9355d"
+    },
+    {
+      "provider": "deepseek",
+      "cache_id": "377996336906f8791e2060620e2c5a0e7a279abf1f57a49808f78b3647f67073",
+      "started_utc": "2026-10-02T12:00:27.130212+00:00",
+      "status": "success",
+      "latency_s": 7.768436198000018,
+      "cost_usd": 0.000122268,
+      "cost_kind": "estimated_peak_ceiling",
+      "response_id": "a26bcf2d-5be0-445c-b48f-3e15faabb1f8"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "ba299321c1d36f836c79b322076155c3cc94a3cc64e161797ac2cbbbfacd739d",
+      "started_utc": "2026-10-02T12:00:34.901527+00:00",
+      "status": "success",
+      "latency_s": 7.026803618000031,
+      "cost_usd": 5.8128e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942441-tsuaPe15Zxebbu1k28gy"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "f7faf80b35ca4e05b8a220edc15acf7620b5c2219f133d08138fda99fb88599a",
+      "started_utc": "2026-10-02T12:00:41.936491+00:00",
+      "status": "success",
+      "latency_s": 6.05939513300018,
+      "cost_usd": 5.8632e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942447-nQoUPxjjAxHhVWrhZ0tt"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "46870b4cb6f45ce33d7c084d6ce11df4b2f9bec00674906af51b27d65cfd00f5",
+      "started_utc": "2026-10-02T12:00:47.998862+00:00",
+      "status": "success",
+      "latency_s": 7.402024871999856,
+      "cost_usd": 5.8338e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942455-QwTWMKZyVb6cFEaIvqzJ"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "cf57ac5501dea2d5b65de3123872c2bc63dc6a9bbce76e0b5f0951e73121d49b",
+      "started_utc": "2026-10-02T12:00:55.405379+00:00",
+      "status": "success",
+      "latency_s": 7.484116421999715,
+      "cost_usd": 5.8086e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942462-tRlI2QMfeWVtxapF7ghZ"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "40a3889f508b054b583d50be467b40a094afc947cb859f24c9860d03bd25e259",
+      "started_utc": "2026-10-02T12:01:02.893315+00:00",
+      "status": "success",
+      "latency_s": 7.7123711100002765,
+      "cost_usd": 5.8674e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942470-YoPBPq30ZYiOcaduZ92e"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "038552f9b8c4f882340bb97e420213ec4478e8ea818d0ac93e08f7032358224e",
+      "started_utc": "2026-10-02T12:01:10.609006+00:00",
+      "status": "success",
+      "latency_s": 8.312650473999838,
+      "cost_usd": 5.8716e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942478-2h1Jtm6f0l06zPQJthDt"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "178eeb33eb44dffa91f7ba7cf1d9dffd19682689f8be733eabd2c0942f43a9de",
+      "started_utc": "2026-10-02T12:01:18.925872+00:00",
+      "status": "success",
+      "latency_s": 8.92249437999999,
+      "cost_usd": 5.8548e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942487-xpW0gEvBYa2gOsz4cVVb"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "7f9bf1d64ab30f0fe1b88339dec6db8a27d9e8f6a354358d4e78a592ad50dc2e",
+      "started_utc": "2026-10-02T12:01:27.854126+00:00",
+      "status": "success",
+      "latency_s": 9.884911513999668,
+      "cost_usd": 5.8548e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942497-qd4T7CZXQMLehB2n6rMM"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "453fb22e9579bb3970281f0d0b80aaa2c11d63b6b3ac7f14ec9f2d3633834479",
+      "started_utc": "2026-10-02T12:01:37.742142+00:00",
+      "status": "success",
+      "latency_s": 9.357372444999783,
+      "cost_usd": 5.8842e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942506-E42XjwqJlNIzPTLvMe9b"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "64fe99dca79e7234f90586fdb1b2d8d784bd228eb9eff36548a139bcf240b05c",
+      "started_utc": "2026-10-02T12:01:47.102723+00:00",
+      "status": "success",
+      "latency_s": 10.296147796999776,
+      "cost_usd": 5.8674e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942517-JncKQvWezGJBEmiym88K"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "7c6bb935199adf2d2816cee5ec74f964838d07b82e4f3e6e4c649fffaae61ccb",
+      "started_utc": "2026-10-02T12:01:57.402767+00:00",
+      "status": "success",
+      "latency_s": 11.972148904999813,
+      "cost_usd": 5.8926e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942529-nVIzVjTMclecvRodTq81"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "9e675e903c1e680e066ae5d53a81bbd7415e82595e8463e7d541ed5a53f8172d",
+      "started_utc": "2026-10-02T12:02:09.378514+00:00",
+      "status": "success",
+      "latency_s": 9.475061351000022,
+      "cost_usd": 5.9178e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942538-7ERjMQGeol70vYmKt1A0"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "0c9675af0c8cf4ef5fa4ec172975a57e5cd0a064f8605c0013f24902e616c2f4",
+      "started_utc": "2026-10-02T12:02:18.857191+00:00",
+      "status": "success",
+      "latency_s": 9.724892742000065,
+      "cost_usd": 4.3932e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942548-lLOLAB0eltNLAY9JwS6K"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "fc46aa88b18b95acdf23a894b00473dbc43a83c8ff1868a6856d37cbc5e53a5d",
+      "started_utc": "2026-10-02T12:02:28.585404+00:00",
+      "status": "success",
+      "latency_s": 7.623953390999759,
+      "cost_usd": 4.389e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942555-BKCD06JwpoEfXTFI0pRK"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "372bb8813e0a714c236391b7817885f75d461278e2fe72f7e5ecf8bb1151907e",
+      "started_utc": "2026-10-02T12:02:36.212958+00:00",
+      "status": "success",
+      "latency_s": 7.028190032000111,
+      "cost_usd": 4.4058e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942563-vL3m9vckp0FsBj3kaLBR"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "f0f9cb3c9cd572f434f149cca6eaed73274e73d51a1f76ca3c254031f4923faf",
+      "started_utc": "2026-10-02T12:02:43.245184+00:00",
+      "status": "success",
+      "latency_s": 5.845329035000304,
+      "cost_usd": 4.4058e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942568-i1h1wjFF2sBsQjcJH3y4"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "144b0ff5b40e7bfe1aec8c21ed47df7e9b82a3242b020d573c9498a3ea4e7a4b",
+      "started_utc": "2026-10-02T12:02:49.093946+00:00",
+      "status": "success",
+      "latency_s": 5.27401130599992,
+      "cost_usd": 4.4184e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942574-cyGAxLRsYpdOWih4fHx9"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "139860105887e76195230a7a32870a5de19bfc54f81e5a24db9b66b05adf9dcd",
+      "started_utc": "2026-10-02T12:02:54.371394+00:00",
+      "status": "success",
+      "latency_s": 5.462100933000329,
+      "cost_usd": 4.3974e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942579-DVdbAREeVSc18PC7RMx8"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "25f5256488c51a738e325716f8a4c1db7b87a04958629094ed1e241e45737d61",
+      "started_utc": "2026-10-02T12:02:59.837125+00:00",
+      "status": "success",
+      "latency_s": 4.928700600999946,
+      "cost_usd": 2.0748e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942584-cpQSZfbWfIkgUvGxxy2x"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "47f790bc23c1923244b7593e2a7282db6ec832a952d29a6b7cedea86b479b3a8",
+      "started_utc": "2026-10-02T12:03:04.768685+00:00",
+      "status": "success",
+      "latency_s": 5.675916855000196,
+      "cost_usd": 2.0706e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942590-N8zuhFB6XtyrUrXICtEN"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "768fa7da497925db657b58c776958bb959c287ad3c5e71a3ea92e58b9cc521c8",
+      "started_utc": "2026-10-02T12:03:10.447575+00:00",
+      "status": "success",
+      "latency_s": 5.4305245609998565,
+      "cost_usd": 2.0832e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942595-pHxLboSuaSxoIkKgmjSU"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "46068b84b42a8733e8131a1c4804f7c3de146485440d5ad918a87ceeb1ea2f86",
+      "started_utc": "2026-10-02T12:03:15.881090+00:00",
+      "status": "success",
+      "latency_s": 3.9745078990004004,
+      "cost_usd": 2.0286e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942599-YsMO2kWpx5PcdNhSycRL"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "170bc923f7de6102569369bcf7b556dc6a6c7282d4944576a8942061c84af537",
+      "started_utc": "2026-10-02T12:03:19.858515+00:00",
+      "status": "success",
+      "latency_s": 5.121309594000195,
+      "cost_usd": 2.0286e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942604-0rvEP4ccL8pbyPRVMmtg"
+    },
+    {
+      "provider": "jev",
+      "cache_id": "b6f14dcf540392d5e9111acb5641ad95eaee4997d9c47cf616e4357722b554fb",
+      "started_utc": "2026-10-02T12:03:24.982994+00:00",
+      "status": "success",
+      "latency_s": 4.1357549939998535,
+      "cost_usd": 2.0244e-05,
+      "cost_kind": "returned",
+      "response_id": "gen-dec-1790942608-EvVIwcYjTs4MCqUaQxxC"
+    }
+  ]
+}

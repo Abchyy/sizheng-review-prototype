@@ -1,0 +1,7 @@
+auto_clear,cache_hits,execution_status,expected,finding_count,group,id,jev_calls,llm_calls,logical_cost_usd,mode,predicted,provider_latency_s,required_evidence_count,retrieved_required_count,verified_finding_count,wall_s
+True,2,success,no_issue,0,values,values-01,1,1,0.000349872,hybrid,no_issue,11.82900810700039,1,1,0,0.000824613000077079
+False,2,success,issue,1,values,values-02,1,1,0.000536124,hybrid,issue,10.274170259000584,1,1,1,0.0007463040001312038
+False,2,success,issue,1,values,values-03,1,1,0.0004913399999999999,hybrid,issue,9.038433715999872,1,1,1,0.0006583019999197859
+True,2,success,no_issue,0,values,values-04,1,1,0.000324924,hybrid,no_issue,9.302607541999805,1,1,0,0.0006375000002663
+True,2,success,no_issue,0,values,values-05,1,1,0.000342792,hybrid,no_issue,9.479150317000403,1,1,0,0.0006571800004167017
+False,2,success,issue,1,values,values-06,1,1,0.000473244,hybrid,issue,9.171139393999965,1,1,1,0.0005774999999630381

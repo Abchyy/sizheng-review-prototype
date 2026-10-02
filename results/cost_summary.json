@@ -1,0 +1,10 @@
+{
+  "total_post_attempts": 87,
+  "successful_responses": 86,
+  "interrupted_calls_cost_unknown": 1,
+  "jev_returned_cost_usd": 0.0013883099999999998,
+  "deepseek_peak_rate_estimate_usd": 0.016895471999999998,
+  "combined_known_plus_estimated_usd": 0.018283782000000002,
+  "account_bill_verified": false,
+  "warning": "One interrupted DeepSeek request may have been charged. Estimates do not include unknown cost; no balance change or recharge performed."
+}

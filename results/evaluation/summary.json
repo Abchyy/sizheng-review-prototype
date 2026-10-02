@@ -1,0 +1,125 @@
+{
+  "llm_only": {
+    "n_total": 24,
+    "n_valid": 24,
+    "failures": 0,
+    "accuracy": 0.875,
+    "balanced_accuracy": 0.9074074074074074,
+    "issue_precision": 1.0,
+    "issue_recall": 0.8888888888888888,
+    "issue_f1": 0.9411764705882353,
+    "missed_issues": 1,
+    "false_issue_flags": 0,
+    "auto_clear_coverage": 0.4583333333333333,
+    "auto_clear_errors": 1,
+    "human_review_fraction": 0.5416666666666666,
+    "llm_call_count": 24,
+    "jev_call_count": 0,
+    "citation_literal_validity": 0.0,
+    "retrieval_recall_required_facts": 0.0,
+    "provider_latency_p50_s": 5.761485590999882,
+    "provider_latency_p95_s": 7.232630599000004,
+    "logical_cost_usd": 0.0054198,
+    "confusion": {
+      "no_issue": {
+        "no_issue": 10,
+        "issue": 0,
+        "insufficient": 2
+      },
+      "issue": {
+        "no_issue": 1,
+        "issue": 8,
+        "insufficient": 0
+      },
+      "insufficient": {
+        "no_issue": 0,
+        "issue": 0,
+        "insufficient": 3
+      }
+    }
+  },
+  "llm_graph": {
+    "n_total": 24,
+    "n_valid": 24,
+    "failures": 0,
+    "accuracy": 0.8333333333333334,
+    "balanced_accuracy": 0.8518518518518519,
+    "issue_precision": 1.0,
+    "issue_recall": 0.5555555555555556,
+    "issue_f1": 0.7142857142857143,
+    "missed_issues": 4,
+    "false_issue_flags": 0,
+    "auto_clear_coverage": 0.5,
+    "auto_clear_errors": 0,
+    "human_review_fraction": 0.5,
+    "llm_call_count": 24,
+    "jev_call_count": 0,
+    "citation_literal_validity": 0.6363636363636364,
+    "retrieval_recall_required_facts": 1.0,
+    "provider_latency_p50_s": 5.642138199500096,
+    "provider_latency_p95_s": 7.768436198000018,
+    "logical_cost_usd": 0.009222432,
+    "confusion": {
+      "no_issue": {
+        "no_issue": 12,
+        "issue": 0,
+        "insufficient": 0
+      },
+      "issue": {
+        "no_issue": 0,
+        "issue": 5,
+        "insufficient": 4
+      },
+      "insufficient": {
+        "no_issue": 0,
+        "issue": 0,
+        "insufficient": 3
+      }
+    }
+  },
+  "hybrid": {
+    "n_total": 24,
+    "n_valid": 24,
+    "failures": 0,
+    "accuracy": 0.8333333333333334,
+    "balanced_accuracy": 0.8518518518518519,
+    "issue_precision": 1.0,
+    "issue_recall": 0.5555555555555556,
+    "issue_f1": 0.7142857142857143,
+    "missed_issues": 4,
+    "false_issue_flags": 0,
+    "auto_clear_coverage": 0.5,
+    "auto_clear_errors": 0,
+    "human_review_fraction": 0.5,
+    "llm_call_count": 18,
+    "jev_call_count": 24,
+    "citation_literal_validity": 0.875,
+    "retrieval_recall_required_facts": 1.0,
+    "provider_latency_p50_s": 12.432515438500104,
+    "provider_latency_p95_s": 17.250503897999806,
+    "logical_cost_usd": 0.009167412,
+    "confusion": {
+      "no_issue": {
+        "no_issue": 12,
+        "issue": 0,
+        "insufficient": 0
+      },
+      "issue": {
+        "no_issue": 0,
+        "issue": 5,
+        "insufficient": 4
+      },
+      "insufficient": {
+        "no_issue": 0,
+        "issue": 0,
+        "insufficient": 3
+      }
+    }
+  },
+  "execution": {
+    "completed": true,
+    "actual_paid_requests_in_ledger": 85,
+    "actual_known_or_estimated_total_cost_usd": 0.018251016000000002,
+    "notes": "DeepSeek cost is peak-price estimate, Jev returned cost. Logical per-arm totals include shared cached requests. Provider latency comes from original calls; rerun wall time can be much smaller. No account-bill verification."
+  }
+}

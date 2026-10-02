@@ -1,0 +1,16 @@
+{
+  "version": "synthetic-benchmark-v1",
+  "frozen_utc": "2026-10-02T11:56:20.308738+00:00",
+  "case_count": 30,
+  "counts": {
+    "dev": 6,
+    "test": 24
+  },
+  "split_unit": "document/topic group; law republications stay together",
+  "config_sha256": "a275dd22651f98241af1abb39870eb2011d67b32749d09c33f1af10d184422be",
+  "graph_sha256": "0b1a6176ac20909f19d45271e1ac1dac2d476bfd41cc7860cea2d47db2a1c7c9",
+  "cases_sha256": "b7f7b4a36cc9b9fc78b9c25a4856e7e59e6f0aab9947cddae3a33fa1ce337a31",
+  "independent_test": false,
+  "expert_validated": false,
+  "limitation": "Same agent authored cases and system. Synthetic demonstration, no production generalization or blind evaluation."
+}

@@ -1,0 +1,47 @@
+{
+  "hybrid": {
+    "n_total": 6,
+    "n_valid": 6,
+    "failures": 0,
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "issue_precision": 1.0,
+    "issue_recall": 1.0,
+    "issue_f1": 1.0,
+    "missed_issues": 0,
+    "false_issue_flags": 0,
+    "auto_clear_coverage": 0.5,
+    "auto_clear_errors": 0,
+    "human_review_fraction": 0.5,
+    "llm_call_count": 6,
+    "jev_call_count": 6,
+    "citation_literal_validity": 1.0,
+    "retrieval_recall_required_facts": 1.0,
+    "provider_latency_p50_s": 9.390878929500104,
+    "provider_latency_p95_s": 11.82900810700039,
+    "logical_cost_usd": 0.0025182959999999997,
+    "confusion": {
+      "no_issue": {
+        "no_issue": 3,
+        "issue": 0,
+        "insufficient": 0
+      },
+      "issue": {
+        "no_issue": 0,
+        "issue": 3,
+        "insufficient": 0
+      },
+      "insufficient": {
+        "no_issue": 0,
+        "issue": 0,
+        "insufficient": 0
+      }
+    }
+  },
+  "execution": {
+    "completed": true,
+    "actual_paid_requests_in_ledger": 85,
+    "actual_known_or_estimated_total_cost_usd": 0.018251016000000002,
+    "notes": "DeepSeek cost is peak-price estimate, Jev returned cost. Logical per-arm totals include shared cached requests. Provider latency comes from original calls; rerun wall time can be much smaller. No account-bill verification."
+  }
+}

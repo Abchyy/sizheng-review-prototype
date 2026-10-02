@@ -1,0 +1,333 @@
+{
+  "version": "graph-v1",
+  "nodes": [
+    {
+      "id": "curriculum",
+      "label": "高等学校课程思政建设指导纲要",
+      "aliases": [
+        "课程思政",
+        "高等学校课程思政建设指导纲要"
+      ]
+    },
+    {
+      "id": "core_values",
+      "label": "社会主义核心价值观",
+      "aliases": [
+        "社会主义核心价值观",
+        "核心价值观",
+        "富强",
+        "自由",
+        "诚信",
+        "友善"
+      ]
+    },
+    {
+      "id": "speech",
+      "label": "学校思想政治理论课教师座谈会讲话",
+      "aliases": [
+        "学校思想政治理论课教师座谈会",
+        "思政课是落实立德树人根本任务的关键课程",
+        "2019年3月18日",
+        "求是"
+      ]
+    },
+    {
+      "id": "patriotic_law",
+      "label": "中华人民共和国爱国主义教育法",
+      "aliases": [
+        "爱国主义教育法",
+        "爱国主义教育",
+        "中华人民共和国爱国主义教育法"
+      ]
+    },
+    {
+      "id": "2020-05-28",
+      "label": "2020-05-28",
+      "aliases": [
+        "2020-05-28"
+      ]
+    },
+    {
+      "id": "教师队伍=主力军;课程建设=主战场;课堂教学=主渠道",
+      "label": "教师队伍=主力军;课程建设=主战场;课堂教学=主渠道",
+      "aliases": [
+        "教师队伍=主力军;课程建设=主战场;课堂教学=主渠道"
+      ]
+    },
+    {
+      "id": "所有高校、所有教师、所有课程",
+      "label": "所有高校、所有教师、所有课程",
+      "aliases": [
+        "所有高校、所有教师、所有课程"
+      ]
+    },
+    {
+      "id": "价值塑造、知识传授、能力培养",
+      "label": "价值塑造、知识传授、能力培养",
+      "aliases": [
+        "价值塑造、知识传授、能力培养"
+      ]
+    },
+    {
+      "id": "国家层面",
+      "label": "国家层面",
+      "aliases": [
+        "国家层面"
+      ]
+    },
+    {
+      "id": "社会层面",
+      "label": "社会层面",
+      "aliases": [
+        "社会层面"
+      ]
+    },
+    {
+      "id": "公民个人层面",
+      "label": "公民个人层面",
+      "aliases": [
+        "公民个人层面"
+      ]
+    },
+    {
+      "id": "2019-03-18",
+      "label": "2019-03-18",
+      "aliases": [
+        "2019-03-18"
+      ]
+    },
+    {
+      "id": "2020-09-01",
+      "label": "2020-09-01",
+      "aliases": [
+        "2020-09-01"
+      ]
+    },
+    {
+      "id": "2024-01-01",
+      "label": "2024-01-01",
+      "aliases": [
+        "2024-01-01"
+      ]
+    },
+    {
+      "id": "5章40条",
+      "label": "5章40条",
+      "aliases": [
+        "5章40条"
+      ]
+    },
+    {
+      "id": "各级各类学校",
+      "label": "各级各类学校",
+      "aliases": [
+        "各级各类学校"
+      ]
+    },
+    {
+      "id": "课堂教学与课外实践和体验相结合",
+      "label": "课堂教学与课外实践和体验相结合",
+      "aliases": [
+        "课堂教学与课外实践和体验相结合"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "F1",
+      "subject": "curriculum",
+      "predicate": "issued_on",
+      "object": "2020-05-28",
+      "quote": "2020年5月28日",
+      "source_id": "S1",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s7056/202006/t20200603_462437.html",
+      "locator": "印发日期 / 第一节",
+      "published_date": "2020-05-28",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    },
+    {
+      "id": "F2",
+      "subject": "curriculum",
+      "predicate": "responsibility_roles",
+      "object": "教师队伍=主力军;课程建设=主战场;课堂教学=主渠道",
+      "quote": "教师队伍“主力军”、课程建设“主战场”、课堂教学“主渠道”",
+      "source_id": "S1",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s7056/202006/t20200603_462437.html",
+      "locator": "印发日期 / 第一节",
+      "published_date": "2020-05-28",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    },
+    {
+      "id": "F3",
+      "subject": "curriculum",
+      "predicate": "applies_to",
+      "object": "所有高校、所有教师、所有课程",
+      "quote": "让所有高校、所有教师、所有课程都承担好育人责任",
+      "source_id": "S1",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s7056/202006/t20200603_462437.html",
+      "locator": "印发日期 / 第一节",
+      "published_date": "2020-05-28",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    },
+    {
+      "id": "F4",
+      "subject": "curriculum",
+      "predicate": "integrates",
+      "object": "价值塑造、知识传授、能力培养",
+      "quote": "必须将价值塑造、知识传授和能力培养三者融为一体、不可割裂",
+      "source_id": "S1",
+      "source_url": "https://www.moe.gov.cn/srcsite/A08/s7056/202006/t20200603_462437.html",
+      "locator": "印发日期 / 第一节",
+      "published_date": "2020-05-28",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    },
+    {
+      "id": "F5",
+      "subject": "core_values",
+      "predicate": "level_definition",
+      "object": "国家层面",
+      "quote": "富强、民主、文明、和谐，是国家层面的价值目标；",
+      "source_id": "S2",
+      "source_url": "https://www.most.gov.cn/tpxw/201402/t20140214_111847.html",
+      "locator": "24字核心价值观分三个层面",
+      "published_date": "2014-02-14",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F6",
+      "subject": "core_values",
+      "predicate": "level_definition",
+      "object": "社会层面",
+      "quote": "自由、平等、公正、法治，是社会层面的价值取向；",
+      "source_id": "S2",
+      "source_url": "https://www.most.gov.cn/tpxw/201402/t20140214_111847.html",
+      "locator": "24字核心价值观分三个层面",
+      "published_date": "2014-02-14",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F7",
+      "subject": "core_values",
+      "predicate": "level_definition",
+      "object": "公民个人层面",
+      "quote": "爱国、敬业、诚信、友善，是公民个人层面的价值准则。",
+      "source_id": "S2",
+      "source_url": "https://www.most.gov.cn/tpxw/201402/t20140214_111847.html",
+      "locator": "24字核心价值观分三个层面",
+      "published_date": "2014-02-14",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F8",
+      "subject": "speech",
+      "predicate": "delivered_on",
+      "object": "2019-03-18",
+      "quote": "2020年9月1日出版的《求是》杂志发表了习近平总书记2019年3月18日在学校思想政治理论课教师座谈会上的重要讲话《思政课是落实立德树人根本任务的关键课程》。",
+      "source_id": "S3",
+      "source_url": "https://www.moe.gov.cn/srcsite/A13/moe_772/202009/t20200927_491601.html",
+      "locator": "通知开头首段",
+      "published_date": "2020-09-27",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F9",
+      "subject": "speech",
+      "predicate": "article_published_on",
+      "object": "2020-09-01",
+      "quote": "2020年9月1日出版的《求是》杂志发表了习近平总书记2019年3月18日在学校思想政治理论课教师座谈会上的重要讲话《思政课是落实立德树人根本任务的关键课程》。",
+      "source_id": "S3",
+      "source_url": "https://www.moe.gov.cn/srcsite/A13/moe_772/202009/t20200927_491601.html",
+      "locator": "通知开头首段",
+      "published_date": "2020-09-27",
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F10",
+      "subject": "patriotic_law",
+      "predicate": "effective_on",
+      "object": "2024-01-01",
+      "quote": "自2024年1月1日起施行。",
+      "source_id": "S4",
+      "source_url": "https://www.jiangmen.gov.cn/bmpd/jmszfhcxjsj/ztzl/pfxxzl/fzzf/content/post_3100556.html",
+      "locator": "首段",
+      "published_date": null,
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F11",
+      "subject": "patriotic_law",
+      "predicate": "structure",
+      "object": "5章40条",
+      "quote": "共5章40条，包括总则、职责任务、实施措施、支持保障、附则。",
+      "source_id": "S4",
+      "source_url": "https://www.jiangmen.gov.cn/bmpd/jmszfhcxjsj/ztzl/pfxxzl/fzzf/content/post_3100556.html",
+      "locator": "首段",
+      "published_date": null,
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "document_metadata_or_definition"
+    },
+    {
+      "id": "F12",
+      "subject": "patriotic_law",
+      "predicate": "school_scope",
+      "object": "各级各类学校",
+      "quote": "第十五条　国家将爱国主义教育纳入国民教育体系。各级各类学校应当将爱国主义教育贯穿学校教育全过程，办好、讲好思想政治理论课，并将爱国主义教育内容融入各类学科和教材中。",
+      "source_id": "S5",
+      "source_url": "https://www.pengan.gov.cn/xwdt/ztzl/fzzf/dwzfhqxf/t_2358862.html",
+      "locator": "第十五条",
+      "published_date": null,
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    },
+    {
+      "id": "F13",
+      "subject": "patriotic_law",
+      "predicate": "activity_forms",
+      "object": "课堂教学与课外实践和体验相结合",
+      "quote": "第十六条　各级各类学校应当将课堂教学与课外实践和体验相结合，把爱国主义教育内容融入校园文化建设和学校各类主题活动，组织学生参观爱国主义教育基地等场馆设施，参加爱国主义教育校外实践活动。",
+      "source_id": "S5",
+      "source_url": "https://www.pengan.gov.cn/xwdt/ztzl/fzzf/dwzfhqxf/t_2358862.html",
+      "locator": "第十六条",
+      "published_date": null,
+      "valid_from": null,
+      "valid_to": null,
+      "verification_status": "verbatim_excerpt_checked_not_expert_reviewed",
+      "knowledge_kind": "normative_text"
+    }
+  ],
+  "temporal_note": "Publication and event dates are separate predicates. Unknown validity dates are null, never inferred; no automatic historical validity certification."
+}
